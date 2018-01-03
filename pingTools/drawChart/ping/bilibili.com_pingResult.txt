@@ -1,0 +1,8 @@
+time: 2017-12-19 12:13:37.104813  packetLossRate:  0%  minTime:  32ms  maxTime:  36ms  averageTime:  34ms  
+time: 2017-12-19 12:13:42.270813  packetLossRate:  0%  minTime:  33ms  maxTime:  39ms  averageTime:  35ms  
+time: 2017-12-19 12:13:47.514813  packetLossRate:  0%  minTime:  34ms  maxTime:  86ms  averageTime:  51ms  
+time: 2017-12-19 12:13:56.583813  packetLossRate:  0%  minTime:  34ms  maxTime:  723ms  averageTime:  209ms  
+time: 2017-12-19 12:14:01.766813  packetLossRate:  0%  minTime:  42ms  maxTime:  44ms  averageTime:  42ms  
+time: 2017-12-19 12:14:06.958813  packetLossRate:  0%  minTime:  42ms  maxTime:  46ms  averageTime:  43ms  
+time: 2017-12-19 12:14:12.093813  packetLossRate:  0%  minTime:  42ms  maxTime:  45ms  averageTime:  43ms  
+time: 2017-12-19 12:14:17.203813  packetLossRate:  0%  minTime:  42ms  maxTime:  45ms  averageTime:  43ms  
